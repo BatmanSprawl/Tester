@@ -1,0 +1,10 @@
+﻿  strtoul.c
+  _filename.c
+  _strcat.c
+  _strcmpi.c
+  _strcpy.c
+  _strend.c
+  _strlen.c
+  main.c
+  Generating Code...
+  Naka.vcxproj -> C:\Users\adamw\Source\Repos\UACME\Source\Naka\output\x64\Debug\Naka64.exe

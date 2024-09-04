@@ -1,0 +1,19 @@
+﻿  u64tohex.c
+  u64tostr.c
+  ultohex.c
+  ultostr.c
+  util.c
+  windefend.c
+  _strcat.c
+  _strcmpi.c
+  _strcpy.c
+  _strend.c
+  _strlen.c
+  _strncmp.c
+  _strncmpi.c
+  _strncpy.c
+  _strstri.c
+  dllmain.c
+  Generating Code...
+     Creating library .\output\x64\Debug\Akatsuki64.lib and object .\output\x64\Debug\Akatsuki64.exp
+  Akatsuki.vcxproj -> C:\Users\adamw\Source\Repos\UACME\Source\Akatsuki\output\x64\Debug\Akatsuki64.dll

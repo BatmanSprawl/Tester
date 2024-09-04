@@ -1,0 +1,20 @@
+﻿  cmdline.c
+  u64tostr.c
+  ultohex.c
+  ultostr.c
+  util.c
+  windefend.c
+  _filename.c
+  _strcat.c
+  _strcmpi.c
+  _strcpy.c
+  _strend.c
+  _strlen.c
+  _strncpy.c
+  _strstri.c
+  dllmain.c
+  pca.c
+  uihacks.c
+  Generating Code...
+     Creating library .\output\x64\Debug\Fubuki64.lib and object .\output\x64\Debug\Fubuki64.exp
+  dll.vcxproj -> C:\Users\adamw\Source\Repos\UACME\Source\Fubuki\output\x64\Debug\Fubuki64.dll

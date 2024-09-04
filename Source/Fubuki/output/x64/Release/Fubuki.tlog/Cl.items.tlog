@@ -1,0 +1,17 @@
+C:\Users\adamw\source\repos\Costco\Source\Shared\cmdline.c;C:\Users\adamw\source\repos\Costco\Source\Fubuki\output\x64\Release\cmdline.obj
+C:\Users\adamw\source\repos\Costco\Source\Shared\u64tostr.c;C:\Users\adamw\source\repos\Costco\Source\Fubuki\output\x64\Release\u64tostr.obj
+C:\Users\adamw\source\repos\Costco\Source\Shared\ultohex.c;C:\Users\adamw\source\repos\Costco\Source\Fubuki\output\x64\Release\ultohex.obj
+C:\Users\adamw\source\repos\Costco\Source\Shared\ultostr.c;C:\Users\adamw\source\repos\Costco\Source\Fubuki\output\x64\Release\ultostr.obj
+C:\Users\adamw\source\repos\Costco\Source\Shared\util.c;C:\Users\adamw\source\repos\Costco\Source\Fubuki\output\x64\Release\util.obj
+C:\Users\adamw\source\repos\Costco\Source\Shared\windefend.c;C:\Users\adamw\source\repos\Costco\Source\Fubuki\output\x64\Release\windefend.obj
+C:\Users\adamw\source\repos\Costco\Source\Shared\_filename.c;C:\Users\adamw\source\repos\Costco\Source\Fubuki\output\x64\Release\_filename.obj
+C:\Users\adamw\source\repos\Costco\Source\shared\_strcat.c;C:\Users\adamw\source\repos\Costco\Source\Fubuki\output\x64\Release\_strcat.obj
+C:\Users\adamw\source\repos\Costco\Source\Shared\_strcmpi.c;C:\Users\adamw\source\repos\Costco\Source\Fubuki\output\x64\Release\_strcmpi.obj
+C:\Users\adamw\source\repos\Costco\Source\shared\_strcpy.c;C:\Users\adamw\source\repos\Costco\Source\Fubuki\output\x64\Release\_strcpy.obj
+C:\Users\adamw\source\repos\Costco\Source\Shared\_strend.c;C:\Users\adamw\source\repos\Costco\Source\Fubuki\output\x64\Release\_strend.obj
+C:\Users\adamw\source\repos\Costco\Source\Shared\_strlen.c;C:\Users\adamw\source\repos\Costco\Source\Fubuki\output\x64\Release\_strlen.obj
+C:\Users\adamw\source\repos\Costco\Source\Shared\_strncpy.c;C:\Users\adamw\source\repos\Costco\Source\Fubuki\output\x64\Release\_strncpy.obj
+C:\Users\adamw\source\repos\Costco\Source\Shared\_strstri.c;C:\Users\adamw\source\repos\Costco\Source\Fubuki\output\x64\Release\_strstri.obj
+C:\Users\adamw\source\repos\Costco\Source\Fubuki\dllmain.c;C:\Users\adamw\source\repos\Costco\Source\Fubuki\output\x64\Release\dllmain.obj
+C:\Users\adamw\source\repos\Costco\Source\Fubuki\pca.c;C:\Users\adamw\source\repos\Costco\Source\Fubuki\output\x64\Release\pca.obj
+C:\Users\adamw\source\repos\Costco\Source\Fubuki\uihacks.c;C:\Users\adamw\source\repos\Costco\Source\Fubuki\output\x64\Release\uihacks.obj

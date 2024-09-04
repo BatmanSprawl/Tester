@@ -1,0 +1,16 @@
+C:\Users\adamw\Source\Repos\UACME\Source\Shared\u64tohex.c;C:\Users\adamw\Source\Repos\UACME\Source\Akatsuki\output\x64\Debug\u64tohex.obj
+C:\Users\adamw\Source\Repos\UACME\Source\Shared\u64tostr.c;C:\Users\adamw\Source\Repos\UACME\Source\Akatsuki\output\x64\Debug\u64tostr.obj
+C:\Users\adamw\Source\Repos\UACME\Source\Shared\ultohex.c;C:\Users\adamw\Source\Repos\UACME\Source\Akatsuki\output\x64\Debug\ultohex.obj
+C:\Users\adamw\Source\Repos\UACME\Source\Shared\ultostr.c;C:\Users\adamw\Source\Repos\UACME\Source\Akatsuki\output\x64\Debug\ultostr.obj
+C:\Users\adamw\Source\Repos\UACME\Source\Shared\util.c;C:\Users\adamw\Source\Repos\UACME\Source\Akatsuki\output\x64\Debug\util.obj
+C:\Users\adamw\Source\Repos\UACME\Source\Shared\windefend.c;C:\Users\adamw\Source\Repos\UACME\Source\Akatsuki\output\x64\Debug\windefend.obj
+C:\Users\adamw\Source\Repos\UACME\Source\Shared\_strcat.c;C:\Users\adamw\Source\Repos\UACME\Source\Akatsuki\output\x64\Debug\_strcat.obj
+C:\Users\adamw\Source\Repos\UACME\Source\Shared\_strcmpi.c;C:\Users\adamw\Source\Repos\UACME\Source\Akatsuki\output\x64\Debug\_strcmpi.obj
+C:\Users\adamw\Source\Repos\UACME\Source\Shared\_strcpy.c;C:\Users\adamw\Source\Repos\UACME\Source\Akatsuki\output\x64\Debug\_strcpy.obj
+C:\Users\adamw\Source\Repos\UACME\Source\Shared\_strend.c;C:\Users\adamw\Source\Repos\UACME\Source\Akatsuki\output\x64\Debug\_strend.obj
+C:\Users\adamw\Source\Repos\UACME\Source\Shared\_strlen.c;C:\Users\adamw\Source\Repos\UACME\Source\Akatsuki\output\x64\Debug\_strlen.obj
+C:\Users\adamw\Source\Repos\UACME\Source\Shared\_strncmp.c;C:\Users\adamw\Source\Repos\UACME\Source\Akatsuki\output\x64\Debug\_strncmp.obj
+C:\Users\adamw\Source\Repos\UACME\Source\Shared\_strncmpi.c;C:\Users\adamw\Source\Repos\UACME\Source\Akatsuki\output\x64\Debug\_strncmpi.obj
+C:\Users\adamw\Source\Repos\UACME\Source\Shared\_strncpy.c;C:\Users\adamw\Source\Repos\UACME\Source\Akatsuki\output\x64\Debug\_strncpy.obj
+C:\Users\adamw\Source\Repos\UACME\Source\Shared\_strstri.c;C:\Users\adamw\Source\Repos\UACME\Source\Akatsuki\output\x64\Debug\_strstri.obj
+C:\Users\adamw\Source\Repos\UACME\Source\Akatsuki\dllmain.c;C:\Users\adamw\Source\Repos\UACME\Source\Akatsuki\output\x64\Debug\dllmain.obj

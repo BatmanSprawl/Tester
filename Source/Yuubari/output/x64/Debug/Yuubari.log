@@ -1,0 +1,26 @@
+﻿  cmdline.c
+  hde64.c
+  strtoi.c
+  ultostr.c
+  _filename.c
+  _strcat.c
+  _strcmp.c
+  _strcmpi.c
+  _strcpy.c
+  _strend.c
+  _strlen.c
+  _strncmp.c
+  _strncpy.c
+  appinfo.c
+  basic.c
+  comobj.c
+  cui.c
+  fusion.c
+  logger.c
+  main.c
+  Generating Code...
+  Compiling...
+  sup.c
+  test_fusion.c
+  Generating Code...
+  Yuubari.vcxproj -> C:\Users\adamw\Source\Repos\UACME\Source\Yuubari\output\x64\Debug\Yuubari.exe
